@@ -1,7 +1,7 @@
 obd-java-api
 ============
 
-OBD-II Java API
+OBD-II Java API- mio
 
 [![Build status](https://circleci.com/gh/pires/obd-java-api.svg?style=svg)](https://circleci.com/gh/pires/obd-java-api)
 
